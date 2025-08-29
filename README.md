@@ -29,7 +29,7 @@ CodeIn is a real-time collaborative platform where developers, instructors, and 
 
 ## Features
 
-- Real-time code editing and whiteboard sharing via WebSockets
+- Real-time coding judge and whiteboard sharing via WebSockets
 - Private room creation with permission control
 - Built-in code runner with multi-language support
 - Code judge system with input/output validation and test case checking
